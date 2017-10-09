@@ -1,0 +1,7 @@
+---
+title: "PM Modeling Simlation with AR(1) noise"
+output: html_notebook
+---
+
+- The code can be found [here](https://github.com/ronsarafian/Simulation/tree/master/simulation)
+- The Shiny App can be found [here](https://ronsar.shinyapps.io/AR1Simulation/)
